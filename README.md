@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Catus07
 - 👀 I’m interested in coding 
-- 🌱 I’m currently learning springboot framework and angular
+- 🌱 I’m currently learning springboot framework and vuejs
 - 💞️ I’m looking to collaborate on projects related to my learning path 
 - 📫 How to reach me ...
 
