@@ -1,6 +1,7 @@
 👋 Hello World, I'm @Catus07
 
-💻 A passionate Software Developer on a mission to build smart, secure, and scalable systems using modern technologies.
+💻 A passionate Software Developer on a mission to build smart, secure, and scalable systems using modern technologies
+
 ---
 🚀 About Me
 
