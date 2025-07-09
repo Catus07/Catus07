@@ -1,6 +1,5 @@
 👋 Hello World, I'm @Catus07
 
----
 💻 A passionate **Computer Scientist** on a mission to build smart, secure, and scalable systems using modern technologies.
 
 🚀 About Me
@@ -39,7 +38,9 @@
     👾 Active security researcher on HackerOne: trevor (catus07)
     💪 Building real-world systems with Spring Boot + Vue.js
     🛡️ Developing secure and scalable architectures with strong backend logic
-    ![GitHub Pull Shark](https://img.shields.io/badge/Pull%20Shark-%F0%9F%A6%88-blue?style=for-the-badge)
+    
+Github Badge
+![GitHub Pull Shark](https://img.shields.io/badge/Pull%20Shark-%F0%9F%A6%88-blue?style=for-the-badge)
 
 
 ---
