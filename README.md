@@ -2,6 +2,7 @@
 
 💻 A passionate **Computer Scientist** on a mission to build smart, secure, and scalable systems using modern technologies.
 
+---
 🚀 About Me
 
 - 👨‍💻 Skilled in **Full Stack Development** with:
@@ -10,7 +11,7 @@
 
 - 🔐 Strong passion for **Cybersecurity**, **Networking**, and **System Design**
 
----
+
 - 🔐 **Cybersecurity Enthusiast**:
   - Practicing **penetration testing** on real-world platforms  
   - Active on [HackerOne](https://hackerone.com/) as **`trevor (catus07)`**  
@@ -24,14 +25,13 @@
   - Tech solutions for businesses in Africa 🌍
 
 
----
-
 - ✅ **Quality Assurance & Testing**:
   - Familiar with writing **unit tests**, **integration tests**
   - Using **JUnit**, **Postman**, and **manual testing** techniques
   - Focused on delivering **reliable and bug-free** applications
 
 ---    
+
 ✨ Achievements
 
     🦈 Pull Shark on GitHub — actively contributing to open source and collaborative projects
