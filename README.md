@@ -1,7 +1,6 @@
 👋 Hello World, I'm @Catus07
 
-💻 A passionate **Computer Scientist** on a mission to build smart, secure, and scalable systems using modern technologies.
-
+💻 A passionate Software Developer on a mission to build smart, secure, and scalable systems using modern technologies.
 ---
 🚀 About Me
 
@@ -56,7 +55,7 @@ Github Badge
 
 📫 Contact Me
 
-- 📧 Email: `revocatusjoseph07@gmail.com`  
+- 📧 Email: `revocatusjoseph267@gmail.com`  
 - 🌐 GitHub: [@Catus07](https://github.com/Catus07)  
 - 📍 Location: Dar es Salaam, Tanzania
 
