@@ -1,5 +1,6 @@
 👋 Hello World, I'm @Catus07
 
+---
 💻 A passionate **Computer Scientist** on a mission to build smart, secure, and scalable systems using modern technologies.
 
 🚀 About Me
@@ -10,6 +11,7 @@
 
 - 🔐 Strong passion for **Cybersecurity**, **Networking**, and **System Design**
 
+---
 - 🔐 **Cybersecurity Enthusiast**:
   - Practicing **penetration testing** on real-world platforms  
   - Active on [HackerOne](https://hackerone.com/) as **`trevor (catus07)`**  
@@ -22,11 +24,25 @@
   - Secure system architecture
   - Tech solutions for businesses in Africa 🌍
 
+
+---
+
 - ✅ **Quality Assurance & Testing**:
   - Familiar with writing **unit tests**, **integration tests**
   - Using **JUnit**, **Postman**, and **manual testing** techniques
   - Focused on delivering **reliable and bug-free** applications
 
+---    
+✨ Achievements
+
+    🦈 Pull Shark on GitHub — actively contributing to open source and collaborative projects
+    👾 Active security researcher on HackerOne: trevor (catus07)
+    💪 Building real-world systems with Spring Boot + Vue.js
+    🛡️ Developing secure and scalable architectures with strong backend logic
+    ![GitHub Pull Shark](https://img.shields.io/badge/Pull%20Shark-%F0%9F%A6%88-blue?style=for-the-badge)
+
+
+---
  🧰 Tech Stack
 
 - **Languages**: Java, PHP, SQL, HTML, JavaScript  
