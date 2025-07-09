@@ -50,7 +50,7 @@ Github Badge
 - **Frameworks**: Spring Boot, Vue.js  
 - **Tools**: Postman, Git, Maven, IntelliJ, VS Code, Burp Suite  
 - **Databases**: MySQL, H2  
-- **Others**: Swagger (OpenAPI), Lombok, JPA, Validation, GitHub
+- **Others**: Spring Security, Swagger (OpenAPI), Lombok, JPA, Validation, GitHub
 
 ---
 
